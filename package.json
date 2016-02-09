@@ -1,0 +1,16 @@
+{
+  "name": "svn2chatwork",
+  "version": "1.0.0",
+  "description": "Sends commit message to Chatwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroki Tanaka",
+  "license": "Eclipse Public License version 1.0",
+  "devDependencies": {
+    "config": "^1.19.0",
+    "request": "^2.58.0",
+    "underscore": "^1.8.3"
+  }
+}

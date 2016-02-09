@@ -1,0 +1,13 @@
+{
+    "api_keys": {
+        "sample_key": "******************"
+    },
+    "repos": {
+        "/var/www/svn/****": {
+            "name": "Sample Project",
+            "api_key": "sample_key",
+            "room_id": "******",
+            "enabled": true
+        }
+    }
+}
