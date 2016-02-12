@@ -5,4 +5,5 @@ export LANG=ja_JP.UTF-8
 REPOS="$1"
 REV="$2"
 
-/usr/local/node-v0.12.7/bin/node /home/test/workspace/svn2chatwork/index.js $REPOS $REV
+cd <YOUR_SVN2CHATWORD_DIR_PATH>
+/usr/local/node-v0.12.7/bin/node <YOUR_SVN2CHATWORD_DIR_PATH>/index.js $REPOS $REV
